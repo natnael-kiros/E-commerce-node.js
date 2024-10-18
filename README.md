@@ -1,22 +1,28 @@
 # E-Commerce Platform
 
-This is an ongoing e-commerce project built using Vue.js for the frontend, Express.js for the backend, and MongoDB for the database. The project currently includes features for browsing products and searching by category. Future plans include adding a shopping cart and login functionalities.
+This is an ongoing e-commerce project built using **Vue.js** for the frontend and **Express.js** with **Node.js** for the backend, utilizing **MongoDB** for the database. The project includes features for browsing products, searching by category, a shopping cart for managing purchases, and a secure login system for user authentication. Users can also leave product reviews, enhancing the shopping experience.
+
 
 ## Features
-- Browse products by category.
-- Search for products.
-- Responsive design using Tailwind CSS.
-  
-**Coming soon:**
-- Cart functionality.
-- User authentication and login.
-- Product reviews.
+
+- **Browse Products**: Users can explore a wide range of products organized by categories.
+- **Search Functionality**: Quick and efficient search to find products by keywords.
+- **Responsive Design**: Built with Tailwind CSS for an optimal viewing experience across various devices.
+- **Shopping Cart**: Users can add products to their cart, view their selections, and manage their purchases.
+- **User Authentication**: Secure login and registration system for a personalized shopping experience.
+- **Product Reviews**: Allow users to share their experiences and rate products.
+
+
 
 ## Technologies Used
+
 - **Frontend:** Vue.js
-- **Backend:** Express.js
+- **Backend:** Express.js, Node.js
 - **Database:** MongoDB
+- **HTTP Client:** Axios
 - **Styling:** Tailwind CSS
+
+---
 
 ## Screenshots
 
