@@ -42,4 +42,4 @@ This is an ongoing e-commerce project built using **Vue.js** for the frontend an
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/natnael-kiros/E-commerce-node.js
